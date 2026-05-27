@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userupdate",
+        "uuid": 8456616,
+        "checksum": "3npm23"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
